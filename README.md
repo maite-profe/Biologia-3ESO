@@ -1,9 +1,10 @@
-# Biología 3.º ESO · Tema 1
+# Biología 3.º ESO · Tema 1 y repaso
 
-Versión exportada de la web facilitada, sin vídeo de bioelementos y biomoléculas. Conserva el vídeo de estructura celular y los juegos de clase. Imágenes optimizadas para reducir la descarga.
+Sube todo el contenido de esta carpeta al repositorio Biologia-3ESO, sustituyendo los archivos del mismo nombre. Mantén index.html en la raíz, junto a assets, repaso y .nojekyll.
 
-Descomprime este ZIP y sube su contenido al repositorio: index.html debe quedar en la raíz, junto a assets y .nojekyll. Activa GitHub Pages con main y / (root).
+Unidad: https://maite-profe.github.io/Biologia-3ESO/
+Repaso: https://maite-profe.github.io/Biologia-3ESO/repaso/
 
-El botón «Web de repaso» conserva el enlace a la web de repaso original de ChatGPT Sites, con sus permisos de acceso. Esa segunda web no está incluida en este ZIP.
+Ambas webs funcionan en el mismo dominio. La responsable de Lazarus debe confirmar la autorización de estas rutas.
 
-Autoría: Maite. Se conserva la indicación CC BY-NC-SA 4.0 de la web original.
+Sin vídeo de bioelementos y biomoléculas. Conserva el vídeo de estructura celular. Autoría y licencia de la unidad conservadas.
